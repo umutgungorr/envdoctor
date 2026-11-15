@@ -364,9 +364,9 @@ EnvDoctor is a core pillar of the zero-dependency **Developer Diagnostics Suite*
 
 ---
 
-## 📖 Project Case Study
+## 📖 Project Case Study & Guide
 
-EnvDoctor is an open-source project by [Umut Güngör](https://umutgungorr.com/). Read the [EnvDoctor case study](https://umutgungorr.com/projects/envdoctor) for its design philosophy, benchmarks, and real-world impact.
+EnvDoctor is an open-source project by [Umut Güngör](https://umutgungorr.com/). Read the [EnvDoctor case study](https://umutgungorr.com/projects/envdoctor) for its design philosophy, benchmarks, and real-world impact, or follow the step-by-step guide: [How to Catch Missing `.env` Variables and `.env.example` Drift Before Production Deploy](https://umutgungorr.com/blog/env-contract-drift-envdoctor?lang=en).
 
 ---
 
